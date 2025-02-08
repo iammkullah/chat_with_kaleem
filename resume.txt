@@ -1,0 +1,101 @@
+Name:MUHAMMAD KALEEM ULLAH
+Roles/Tag Line:Data Scientist / Data Analytics / AI Engineer
+
+ABOUT ME:
+Aresults-driven data scientist/analyst with 2 years of experience in e-commerce, stock market analysis,
+and software development. Proven track record of leveraging advanced analytics and data technologies to
+optimize operations, drive revenue, and deliver strategic insights. Adept at using machine learning and AI
+techniques to solve complex problems and enhance business performance. Possesses strong analytical and
+problem-solving skills with a focus on data-driven decision-making. Recognized for delivering impactful 
+solutions that contribute to organizational growth and strategic decision-making.
+
+SKILLS:
+Programming Languages: Python, MATLAB, SQL, C++, C, MySQL, MongoDB, Amazon DynamoDB
+Technologies: AWS CodeCommit, AWS EC2, GCP, GIT, Selenium, Scrapy, Generative AI, NLP, LLM, Machine Learning
+Tools: Docker, Github, Amazon S3, Google AI Studio, Circle-CI, Excel, Tableau, Power BI, Trello, ClickUp, Notion
+
+PROFESSIONAL EXPERIENCE:
+Role: Data Scientist | Company: Bave Technologies
+From January 2024 to Till Now, Location: Remote, Pakistan
+As a Data Scientist at BAVE Technologies, I play a key role in building backend automation and AI solutions:
+- Leveraged LLMs and generative AI to analyze stock market trends, financial data, and quantum data, delivering action
+able insights for strategic decision-making.
+- Designed and automated scalable data enrichment backend systems using Python and AWS (EC2, S3, DynamoDB,
+ Cognito) to streamline workflows and enhance efficiency.
+- Implemented full-solution backend architectures using Python, AWS, and FAST API, enabling data-driven decisions
+ and supporting innovative AI-powered services for startups.
+
+Role: Jr. Data Scientist/Analytics | Company: Acgile
+From Aug 2023 to Dec 2023, Location: Islamabad, Pakistan
+As a Junior Data Scientist for a US-based drop shipping business, I worked on:
+ • Streamlined data-driven decision-making by developing and implementing data analysis solutions using Excel, Power
+ BI, and Tableau. This included creating interactive dashboards to visualize key performance indicators (KPIs), identify
+ trends, and uncover actionable insights.
+ • Automated and optimized various business processes, including shipping cost estimation and pricing strategies for a
+ catalog of over 500,000 products. This involved managing databases, and FTP servers, and utilizing Python libraries
+ like Requests, selenium, Beautiful Soup, and Scrapy for web scraping and data extraction.
+ • Enhanced operational efficiency by integrating and managing APIs for different eCommerce platforms. This facilitated
+ seamless synchronization of inventory data to the front end, improving data accuracy and responsiveness.
+
+Role: Data Science Fellowship | Company: Bytewise Limited
+From Mar 2023 to June 2023, Location: Remote, Pakistan
+ • Gained practical experience through real-world projects and mentorship from industry experts, utilizing data analysis
+ tools, programming languages, and statistical techniques to conduct advanced analyses, including web scraping, data
+ mining, data manipulation, visualization, and applying methods like hypothesis testing, A/B testing, and regression
+ analysis to extract insights and drive data-driven decisions.
+
+Role: Data Scientist Internship | Company: Technocolabs Softwares, 
+From Sep 2022 to Oct 2022, Location: Remote, India
+ • Developed and implemented machine learning models for various data analysis tasks, such as regression, classifica
+tion, and clustering. Utilized popular libraries and frameworks, such as sci-kit-learn, TensorFlow, or PyTorch, to build
+ and train models for predictive analytics.
+ • Collaborated with cross-functional teams, including data engineers, business analysts, and stakeholders, to under
+stand project requirements and deliver actionable insights.
+
+VOLUNTEER EXPERIENCE
+Role: Team Lead| Google Developers Group Cloud Islamabad
+From July 2023 Till Now, Location: Islamabad, Pakistan
+ • Leddiverse teams in logistics, outreach, partnerships, and registration for 15+ GCP-focused events.
+ • Organized and executed seamless events, enhancing the GCP developer ecosystem in Islamabad.
+ • Developed strong leadership, organizational, and collaborative skills through volunteer management roles.
+
+EDUCATION
+Degree: Bachelors of Science in Computer Engineering | University: COMSATS University Islamabad, Attock Campus
+ From Sep 2019 to July 2023, Location: Attock, Pakistan
+ • CampusandInstitute Gold Medalist with CGPA 3.79, Top 3 students throughout my educational career
+ • Google DSCLead2022-23, General Secretary IEEE and CSS
+
+PUBLICATIONS
+Authurs: Mustafa, Ali, Farman Ullah, Mobeen Ur Rehman, Muhammad Bilal Khan, Shujaat Ali Khan Tanoli, Muhammad Kaleem Ullah, Hamza Umar, and Kil To Chong. 
+Title Name, "Non-intrusive RF sensing for early diagnosis of spinal curvature syndrome
+disorders." 
+Journal Name: Computers in Biology and Medicine 155 (2023) IF: 6.698
+
+CERTIFICATIONS
+- Gemini API by Google- Udacity 
+- Data Analysis in Excel- DataCamp 
+- Project Initiation: Starting a Successful Project- Google, Coursera 
+- Create a Project Management Tracker using Microsoft Excel- Coursera Project Network 
+- Foundations of Project Management- Google, Coursera 
+- Intro to Machine Learning, Data Cleaning, Data Visualization, Pandas- Kaggle 
+- Object Localization with TensorFlow- Coursera Project Network, Coursera 
+- Image Segmentation with PyTorch- Coursera Project Network, Coursera 
+- Introduction to TensorFlow for AI, ML, and DL- DeepLearning.AI, Coursera 
+- Compose Music in Python using Earsketch- Coursera Project Network 
+- Python Data Structures- University of Michigan, Coursera 
+- Getting Started with Python- University of Michigan, Coursera
+
+ 
+PROJECTS
+- Build Your Own YeBot with OpenAI API
+- Worked on Amazon, eBay, Walmart, and Shopify APIs 
+- Tonsa Invoices Web Scraping Automation 
+- WebScraping using Python (and Beautiful Soup) 
+- Image Classification with Keras- TensorFlow 
+- Investigating Netflix Movies and Guest Stars in The Office  
+- Speech Processing Using MATLAB 
+- Predicting Big Mart Sale As a Data Scientist  
+- Predicting Hit Songs Using Repeated Chorus  
+- Object Localization with TensorFlow 
+- Deep Learning with PyTorch : Image Segmentation  
+- School Management System (Database systems)
